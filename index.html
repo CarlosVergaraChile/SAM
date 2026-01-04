@@ -270,3 +270,16 @@
 </body>
 </html>
 <!-- Fixed button loop issue - deployed fix -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Prevent button loop - ensure smooth scroll only
+  const buttons = document.querySelectorAll('.cta-button');
+  buttons.forEach(btn => {
+    btn.onclick = function(e) {
+      e.preventDefault();
+      window.scrollTo({top: document.getElementById('pricing').offsetTop, behavior: 'smooth'});
+      return false;
+    };
+  });
+});
+</script>
