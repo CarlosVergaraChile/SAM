@@ -332,3 +332,10 @@ Implementación de tarjetas interactivas con efecto 3D flip para visualizar el e
 
 ### Commit Relacionado
 - `Add comprehensive team flip cards with 25 members and styling`
+- 
+## 🧷 Cumplimiento Ecosistema
+
+SAM v3.0 se rige por la **Constitución del Ecosistema** definida en el repositorio `documentation-hub` y es auditado por el Gem Auditor.
+
+🔗 Constitución del Ecosistema:
+https://github.com/CarlosVergaraChile/documentation-hub/blob/main/ECOSYSTEM-STANDARDS.md
