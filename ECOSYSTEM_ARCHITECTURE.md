@@ -188,3 +188,13 @@ El ecosistema de CarlosVergaraChile-SAM v3.0 integra 6 proyectos verticales inde
 Carlos Vergara Chile (CarlosVergaraChile)
 - Email: carlosvergarachile@uchile.cl
 - GitHub: https://github.com/CarlosVergaraChile
+- 
+## Tabla de Trazabilidad de Estándares del Ecosistema
+
+| Capa / Función          | Repo estándar                                    | Uso concreto en SAM v3.0                                |
+|-------------------------|--------------------------------------------------|---------------------------------------------------------|
+| Pagos                   | `payment-gateway-standard`                       | Procesamiento de pagos con Flow / Mercado Pago         |
+| Estacionalidad mercado  | `seasonal-market-standard`                       | Ajuste de oferta y precios por temporada y contexto     |
+| Contenidos educativos   | `course-module-standard`                         | Definición de cursos, unidades, rúbrcas y evaluaciones|
+| Marketing y adquisición | `marketing-digital-standard`                     | Estrategias de canales, SEO y activaciones digitales    |
+| Orquestación IA         | `maquina-orquestadora-gl-strategic`              | Control de modelos, prompts y aprendizaje continuo      |
