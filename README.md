@@ -1,5 +1,13 @@
 # 🎓 SAM v3.0 - Plataforma de IA para Educación
 
+## 🔒 Seguridad y Calidad de Código
+
+Este repositorio implementa las siguientes herraminetas de seguridad automática:
+
+- **Dependabot**: Monitoreo continuo de vulnerabilidades en dependencias
+- **CodeRabbit**: Revisiones automáticas de código con IA
+- **Reviewdog**: Análisis estático de código (misspell, markdownlint, shellcheck)
+
 ## 📋 Descripción
 
 SAM (Sistema Asistente de Maestros) v3.0 es una plataforma web impulsada por IA que empodera a los docentes con:
